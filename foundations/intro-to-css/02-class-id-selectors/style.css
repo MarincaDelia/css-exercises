@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.prima-clasa{
+    background-color: rgb(233, 175, 230);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#unic{
+    color: #2151f0;
+    font-size: 36px;
+}
+#misto{
+    font-size: 24px;
+}
+#cool{
+    background-color: #69cf5c;
+    font-size: 24px;
+    font-weight: bold;
+}
